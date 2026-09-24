@@ -67,3 +67,15 @@ telecom-customer-churn-analysis/
     ├── churn_by_contract.png           <- Generated visualization
     ├── churn_reasons.png               <- Generated visualization
     └── tenure_vs_churn.png             <- Generated visualization
+Tools & Libraries Used
+Python 3.10+: Core programming language
+
+Pandas & NumPy: Data cleaning, manipulation, and statistical aggregation
+
+Matplotlib & Seaborn: Data visualization and visual export
+
+OpenPyXL: Processing Excel workbooks within Python
+
+VS Code / Jupyter Notebook: Exploratory environment
+
+Git & GitHub: Version control and portfolio hosting
